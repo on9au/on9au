@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! I'm DjPro!</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=on9au&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=on9au&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 - 🌏 Located in Australia
 - ⚡ Fullstack programmer
 - 🦀 Avid Rust programmer
@@ -43,17 +34,3 @@ Discord: `a0._` | Email: `djpro@opena0.net`
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/on9au/on9au/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/on9au/count.svg?"  />
-</div>
-
-###

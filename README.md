@@ -5,7 +5,7 @@
 - 🦀 Avid Rust programmer
 - 🙂 Did i mention Rust?
 
-Discord: `a0._` | Email: `djpro@opena0.net` | Website: `https://opena0.net/`
+Discord: `a0._` | Email: `djpro@opena0.net` | Website: [`https://opena0.net/`]
 
 ###
 

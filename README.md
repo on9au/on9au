@@ -7,7 +7,7 @@
   - 🌏 Located in Australia<br>
   - ⚡ Fullstack and Systems programmer<br>
   - 🦀 Avid Rust programmer<br>
-  - 🙂 Did i mention Rust?<br>
+  - 🙂 Did i mention Rust?<br><br>
 
   Discord: `a0._` | Email: `djpro@opena0.net` | Website: [`opena0.net`](https://opena0.net/)
 </div>

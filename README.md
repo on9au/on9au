@@ -10,6 +10,7 @@
 **Projects**
 
 - **[BookR](https://github.com/on9au/BookR)** - full-stack room booking system. Rust/Axum + Postgres, React, OpenAPI-typed client.
+- **[vlt](https://github.com/on9au/vlt)** - file vault for protecting files at rest. Argon2 + ChaCha20-Poly1305, LUKS2-like architecture.
 - **[marie-rs](https://github.com/on9au/marie-rs)** - MARIE assembler, VM, linter and language server in Rust.
 - **[brainfuck-rs](https://github.com/on9au/brainfuck-rs)** - (mostly) high-performance AOT Brainfuck compiler.
 - **[marzban_api](https://crates.io/crates/marzban_api)** - async Rust client for the Marzban panel API, published on crates.io.

@@ -10,7 +10,4 @@
     <li>🦀 Avid Rust programmer</li>
     <li>🙂 Did i mention Rust?</li>
   </ul>
-  
-
-  Discord: `a0._` | Email: `djpro@opena0.net` | Website: [`opena0.net`](https://opena0.net/)
 </div>

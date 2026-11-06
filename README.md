@@ -7,6 +7,10 @@
   Fullstack & systems programmer · Rust enjoyer · 我很喜欢冰淇淋
 </p>
 
+<p align="center">
+  CompSci @ Monash · Melbourne, Australia
+</p>
+
 **Projects**
 
 - **[BookR](https://github.com/on9au/BookR)** - full-stack room booking system. Rust/Axum + Postgres, React, OpenAPI-typed client.

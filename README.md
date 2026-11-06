@@ -11,6 +11,10 @@
   CompSci @ Monash · Melbourne, Australia
 </p>
 
+<p align="center">
+  <a href="mailto:hi@opena0.net"><code>hi@opena0.net</code></a>
+</p>
+
 **Projects**
 
 - **[BookR](https://github.com/on9au/BookR)** - full-stack room booking system. Rust/Axum + Postgres, React, OpenAPI-typed client.

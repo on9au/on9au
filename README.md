@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hi@opena0.net"><code>hi@opena0.net</code></a>
+  <a href="mailto:djpro@opena0.net"><code>djpro@opena0.net</code></a>
 </p>
 
 **Projects**
